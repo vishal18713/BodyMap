@@ -1,0 +1,6 @@
+[submodule "bodymap-react"]
+	path = bodymap-react
+	url = https://github.com/vishal18713/bodymap-react.git
+[submodule "BodyMap-server"]
+	path = BodyMap-server
+	url = https://github.com/vishal18713/BodyMap-server.git
